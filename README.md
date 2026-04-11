@@ -7,7 +7,7 @@ parseCSV(const string&)
 
 Parse each line and display the student information as shown below as an example:     
 
-   
+   Jonathan H
 
 Name: John   
 Age: 23   
